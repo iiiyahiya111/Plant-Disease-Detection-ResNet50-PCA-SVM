@@ -35,7 +35,7 @@ The reproduced model demonstrated exceptional stability and outperformed the bas
 ## 💻 How to Run
 Everything is contained within a single, easy-to-follow Jupyter Notebook. 
 
-1. Open `notebook_name.ipynb` in Google Colab.
+1. Open `r_hybrid__.ipynb` in Google Colab.
 2. Upload your `kaggle.json` to directly download the dataset.
 3. Run the cells sequentially. The notebook includes automated saving of extracted features to Google Drive to prevent data loss upon runtime disconnection.
 
