@@ -40,6 +40,8 @@ Everything is contained within a single, easy-to-follow Jupyter Notebook.
 3. Run the cells sequentially. The notebook includes automated saving of extracted features to Google Drive to prevent data loss upon runtime disconnection.
 
 ## 📄 References
-- Original Paper: **[A hybrid deep learning model for robust and efficient plant leaf disease detection using ResNet50, PCA, and SVM]([https://link-to-the-paper](https://www.nature.com/articles/s41598-026-46085-w))**
+## 📄 References
+
+- Original Paper: **[A hybrid deep learning model for robust and efficient plant leaf disease detection using ResNet50, PCA, and SVM](https://www.nature.com/articles/s41598-026-46085-w)**
 - Authors: Saba Begum, Naresh E, Srinidhi N. N.
 - Dataset: [PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
