@@ -27,8 +27,10 @@ The reproduced model demonstrated exceptional stability and outperformed the bas
 - **F1-Score:** `97.35%`
 
 ### Confusion Matrix
-*(Note: You can take a screenshot of your large Confusion Matrix output from Colab, upload it to this repository, and link the image here like this:)*
-![Confusion Matrix](Confusion_Matrix.png)
+
+<p align="center">
+  <img src="Confusion_Matrix.png" alt="Confusion Matrix" width="900">
+</p>
 
 ## 💻 How to Run
 Everything is contained within a single, easy-to-follow Jupyter Notebook. 
